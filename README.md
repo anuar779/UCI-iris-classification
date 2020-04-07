@@ -1,4 +1,4 @@
-UCI Iris Classification
+Iris Classification
 ===
 
 Description
